@@ -11,5 +11,3 @@ task list:
 - [x] task1
 - [ ] task2
 - [ ] task3
-
-here is some ==highlighted element==
