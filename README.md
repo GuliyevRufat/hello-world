@@ -9,7 +9,7 @@ Here is some examples of *markdown elements*' use:
 
 task list:
 - [x] task1
-- [] task2
-- [] task3
+- [ ] task2
+- [ ] task3
 
-==highlighted element==
+here is some ==highlighted element==
